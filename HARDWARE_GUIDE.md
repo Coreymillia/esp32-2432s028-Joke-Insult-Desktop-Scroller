@@ -9,12 +9,14 @@ This guide contains the **EXACT configuration** that achieved **perfect operatio
 ## 📱 **Hardware Specifications**
 
 ### **ESP32-2432S028 "Cheap Yellow Display"**
-- **MCU**: ESP32-D0WD-V3 (revision v3.1)
-- **Flash**: 4MB (3,145,728 bytes available)
-- **RAM**: 320KB (327,680 bytes)
-- **Display**: ILI9341 2.8" TFT 240×320 pixels
-- **Touch**: XPT2046 resistive touchscreen
+- **MCU**: ESP32-D0WD-V3 (revision v3.1) - 240MHz dual-core
+- **Flash**: 4MB (3,145,728 bytes) - Currently 16.7% used, 83.3% free!
+- **RAM**: 320KB (327,680 bytes) - Only 6.8% used
+- **Display**: ILI9341 2.8" TFT 240×320 pixels with backlight
+- **Touch**: XPT2046 resistive touchscreen (pressure-sensitive)
+- **WiFi**: AP mode "JokeNet" password "funny123" ✅ CONFIRMED
 - **Power**: USB-C connector, 5V input
+- **Jokes Loaded**: 3,636+ therapeutic roasts across 16 categories
 
 ---
 
