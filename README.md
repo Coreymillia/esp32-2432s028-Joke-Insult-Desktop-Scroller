@@ -4,7 +4,6 @@
 
 A **5,790+ joke omniversal therapeutic system** built for the ESP32-2432S028 "Cheap Yellow Display" that delivers medical-grade roasting therapy, prevents digital addiction, cures procrastination, and promotes physical world engagement across all dimensions of human incompetence.
 
-**AP JokeNet to access** Go to wifi networks select JokeNet password funny123. THEN make sure your mobile network is off or any other wifi you may be connected to. Go to your browser 192.168.4.1 and a webpage interface will come up that you can change joke scroll speed and a few other controls. 
 ---
 
 ## 🏆 **LEGENDARY OMNIVERSAL ACHIEVEMENTS**
